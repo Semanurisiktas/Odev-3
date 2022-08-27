@@ -32,10 +32,6 @@
             </ul> <hr> 
         </article>
         <article>
-            <iframe width="885" height="498" src="https://www.youtube.com/embed/16iwweBUPlo" title="PANKEK TARİFİ | NASIL YAPILIR?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </article>
-
-        <article>
             <h2 style="color: #FF5D5D"> Pancake (Pankek) Tarifi Nasıl Yapılır? </h2>
             <ol>
                 <li> Derin bir karıştırma kabında 2 yumurta ve yarım su bardağı şekeri alın.</li>
