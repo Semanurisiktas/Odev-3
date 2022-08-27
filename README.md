@@ -45,11 +45,6 @@
                 <li> Servis tabağına aldığınız pankeklerin üzerine tereyağı koyup bal gezdirebilirsiniz, afiyet olsun.</li>
             </ol> <hr>
         </article>
-
-        <article>
-            <h2 style="color: #FF5D5D"> Pancake (Pankek) Tarifinin Servis Önerisi</h2>
-            <p> Arzuya göre; reçel, akçaağaç şurubu, mevsim meyveleri hatta dondurma ve tarçınla servis edebilirsiniz. </p>
-        </article>
         <!-- Article - End -->
     </section>
     <!-- Content - End  -->
